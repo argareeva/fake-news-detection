@@ -55,4 +55,4 @@ Key findings from the Exploratory Data Analysis:
 - Fake news is strongly associated with **political topics**
 - Fake news spikes around **major political events**
 
-This project was developed as part of the course DATA 6505: Data Munging with Python.
+This project was developed as part of the course DATA 6505: Data Munging with Python. [Open in Colab](https://colab.research.google.com/drive/1DOhnPyblBKZ4sj-buivC7ip6JrKGzpnY?authuser=1#scrollTo=Ep8qvlRpNPed)
