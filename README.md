@@ -5,7 +5,7 @@ It combines natural language processing (NLP), sentiment analysis, and supervise
 
 ## Dataset
 
-Fake and Real News Dataset (Kaggle)
+Fake and Real News Dataset [Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 - Total articles: **44,919**
 - Fake news: **23,502**
